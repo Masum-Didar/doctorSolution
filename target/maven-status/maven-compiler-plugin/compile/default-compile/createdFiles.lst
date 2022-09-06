@@ -1,0 +1,6 @@
+com\learn\doctorsolution\entities\Institute.class
+com\learn\doctorsolution\entities\User.class
+com\learn\doctorsolution\entities\Chamber.class
+com\learn\doctorsolution\helper\FactoryProvider.class
+com\learn\doctorsolution\entities\Doctor.class
+com\learn\doctorsolution\entities\Category.class
